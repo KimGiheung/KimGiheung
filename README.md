@@ -1,8 +1,6 @@
 # 김기흥
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dse9462)](https://solved.ac/dse9462/)
-출처: https://soo-vely-dev.tistory.com/159
-
 
 - 이메일: ewqdsacxzzaqxswcde@gmail.com
 - 블로그: https://aiunicorn.tistory.com/
