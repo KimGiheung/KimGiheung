@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimGiheung&count_bg=%231E8C1E&title_bg=%237BB3AC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Solved.ac KimGiheung](http://mazassumnida.wtf/api/v2/generate_badge?boj=dse9462)](https://solved.ac/dse9462/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dse9462)](https://solved.ac/dse9462/)
 
 
 - 이메일: ewqdsacxzzaqxswcde@gmail.com
