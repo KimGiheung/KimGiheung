@@ -11,7 +11,7 @@
 ![Metrics](/github-metrics.svg)
 
 ## Summary
-> My target job category or position is artificial neural network researcher, 관심있는 분야등을 취업 희망 시기와 함께 간략하게 적으세요.
+> My target job category or position is Ai neural network researcher.
 
 ## Skill
 > 뱃지 만드는 법은 [여기](https://2dowon.netlify.app/etc/github-badge/)를 보세요. 내가 가진 기술들을 효과적으로 나타낼 수 있습니다.
@@ -21,29 +21,14 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Selenium-43b02a?style=flat-square&logo=Selenium&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/scikit learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white"/></a> 
 
-- AWS EC2에서 Ubuntu, anaconda 환경 구축 경험
-- AWS RDS 생성 및 EC2 python과 연동 경험
-- Amazon S3 이용한 데이터 업로드 경험
-- Python sklearn,keras 사용한 데이터 분석 및 모델링 경험
-- Crontab 활용한 동적 데이터 수집 경험
-- Beautiful Soup, Selenium 활용한 데이터 크롤링
-- Matplotlib, Plotly 사용한 데이터 시각화(basic chart 구현)
-- 서버리스 데이터 레이크 아키텍처 설계
-- Amazon S3를 스토리지를 사용하여 데이터를 Data Lake로 수집하는 데이터 처리 파이프라인 구축
-- 실시간 스트리밍 데이터에 Amazon Kinesis 사용
-- AWS Glue를 사용하여 데이터세트 자동 분류
-- AWS Glue 개발 엔드포인트에 연결된 Amazon SageMaker Jupyter 노트북에서 대화형 ETL 스크립트 실행
-- Amazon Athena를 사용하여 데이터를 쿼리하고 Amazon QuickSight를 사용하여 시각화
+- haniem 인공지능 기반 실내 모니터링을 통한 환경 정화 자율주행 로봇[22_HF317] team에서 인공지능 개발 경험
+- csv형태의 환경 데이터를 생성하고 이를 Pandas, Numpy를 이용하여 데이터 가공 경험
+- Keras를 활용한 실계열 데이터 분석 및 알고리즘 제작 경험
 
 ### 앞으로 공부할 것들
 - 데이터 기반 의사결정 위한 정량 수치 정의
