@@ -5,7 +5,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dse9462)](https://solved.ac/dse9462/)
 
-<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">#FF6F00</font></font>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 
 - 이메일: ewqdsacxzzaqxswcde@gmail.com
