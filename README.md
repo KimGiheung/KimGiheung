@@ -1,6 +1,4 @@
 # 🐱‍💻Kim Gi-heung
-
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=koosaga)](https://github.com/mazassumnida/mazassumnida)
 
