@@ -84,6 +84,7 @@
 
 ### AWS 데이터 분석 워크숍 진행
 
+
 - 워크숍 콘텐츠 주소: https://catalog.us-east-1.prod.workshops.aws/workshops/44c91c21-a6a4-4b56-bd95-56bd443aa449/ko-KR
 - 블로그 주소: https://gildong.blogger.com/6
 - 깃헙 주소: https://github.com/gildong/project/
