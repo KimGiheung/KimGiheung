@@ -1,7 +1,6 @@
 # 🐱‍💻Kim Gi-heung 
 [![Solved.ac 
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=koosaga)](https://github.com/mazassumnida/mazassumnida)  
- 
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=koosaga)](https://github.com/mazassumnida/mazassumnida) 
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dse9462)](https://solved.ac/dse9462/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
