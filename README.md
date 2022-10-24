@@ -10,8 +10,6 @@
 - 블로그: https:/http://velog.io/@dse9462
 - 깃헙: https://github.com/KimGiheung  
 
-
-
 ![Metrics](/github-metrics.svg)
 
 ## Summary
@@ -20,8 +18,7 @@
 ## Skill
 > 뱃지 만드는 법은 [여기](https://2dowon.netlify.app/etc/github-badge/)를 보세요. 내가 가진 기술들을 효과적으로 나타낼 수 있습니다.
  
-  
-
+ 
 **Tech** :  
 한 번 이상 다루어 본 기술들   
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -45,7 +42,7 @@
 **동아대 AI학과**(2021 ~)  
 ]
 **Study**
-- 동아대 IT 취업 동아리 머신러닝 스터디(2022.03.29 ~ 진행중)
+- 동아대 IT 취업 동아리 머신러닝 스터디(2022.03.29 ~ 진행중)    
   - [혼자 공부하는 머신러닝 + 딥러닝](https://g.co/kgs/3XhrQP)
 
 - 동아대 IT 취업 동아리 데이터 분석 스터디(2022.03.29 ~ 진행중)
