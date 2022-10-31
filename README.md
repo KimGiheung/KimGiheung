@@ -10,8 +10,6 @@
 - 블로그: https:/http://velog.io/@dse9462
 - 깃헙: https://github.com/KimGiheung  
 
-
-
 ![Metrics](/github-metrics.svg)
 
 ## Summary
