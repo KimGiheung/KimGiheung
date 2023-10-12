@@ -21,8 +21,7 @@
 ## Skill
 > 뱃지 만드는 법은 [여기](https://2dowon.netlify.app/etc/github-badge/)를 보세요. 내가 가진 기술들을 효과적으로 나타낼 수 있습니다.
  
-  
-
+ 
 **Tech** :  
 한 번 이상 다루어 본 기술들   
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
