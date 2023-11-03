@@ -39,7 +39,8 @@
 
 ## Education  
 
-
+# Group
+- GDSC Dong-A Univ 23-24
 
 **동아대 AI학과**(2021 ~)  
 ]
@@ -52,4 +53,7 @@
 
 
 ## Projects
+- 인공지능 기반 실내 모니터링을 통한 환경정화 자율주행 로봇
+  - [한이음]https://www.hanium.or.kr/portal/index.do
+  - <a href="GreenAI_thesis/ROS2 를 활용한 AI & ICT 기반 자율주행 공기청정기 연구.pdf" download>학술논문</a>
 <br></br>
