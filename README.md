@@ -55,5 +55,5 @@
 ## Projects
 - 인공지능 기반 실내 모니터링을 통한 환경정화 자율주행 로봇
   - [한이음]https://www.hanium.or.kr/portal/index.do
-  - <a href="[GreenAI_thesis/ROS2 를 활용한 AI & ICT 기반 자율주행 공기청정기 연구.pdf](https://github.com/KimGiheung/GreenAI_thesis/blob/fe51774bbe626f5f856e17f710e0f965279c05ff/ROS2%20%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20AI%20%26%20ICT%20%EA%B8%B0%EB%B0%98%20%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EA%B3%B5%EA%B8%B0%EC%B2%AD%EC%A0%95%EA%B8%B0%20%EC%97%B0%EA%B5%AC.pdf)https://github.com/KimGiheung/GreenAI_thesis/blob/fe51774bbe626f5f856e17f710e0f965279c05ff/ROS2%20%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20AI%20%26%20ICT%20%EA%B8%B0%EB%B0%98%20%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EA%B3%B5%EA%B8%B0%EC%B2%AD%EC%A0%95%EA%B8%B0%20%EC%97%B0%EA%B5%AC.pdf" download>학술논문</a>
-<br></br>
+[GreenAI_thesis/ROS2 를 활용한 AI & ICT 기반 자율주행 공기청정기 연구.pdf](https://github.com/KimGiheung/GreenAI_thesis/blob/fe51774bbe626f5f856e17f710e0f965279c05ff/ROS2%20%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20AI%20%26%20ICT%20%EA%B8%B0%EB%B0%98%20%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EA%B3%B5%EA%B8%B0%EC%B2%AD%EC%A0%95%EA%B8%B0%20%EC%97%B0%EA%B5%AC.pdf)https://github.com/KimGiheung/GreenAI_thesis/blob/fe51774bbe626f5f856e17f710e0f965279c05ff/ROS2%20%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20AI%20%26%20ICT%20%EA%B8%B0%EB%B0%98%20%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EA%B3%B5%EA%B8%B0%EC%B2%AD%EC%A0%95%EA%B8%B0%20%EC%97%B0%EA%B5%AC.pdf" download>학술논문
+<br>
