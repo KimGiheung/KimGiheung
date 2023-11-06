@@ -2,14 +2,14 @@
 <a href="https://github.com/mazassumnida/mazassumnida">
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=koosaga" alt="Solved.ac profile"/>
 </a>
-<pre align="center">
+<p align="center">
   <a href="https://github.com/KimGiheung">
     <img src="https://github-readme-stats.vercel.app/api?username=KimGiheung&theme=dark&show_icons=true" alt="Anurag's GitHub stats"/>
   </a>
   <a href="https://solved.ac/dse9462/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dse9462" alt="Solved.ac Profile"/>
   </a>
-</pre>
+</p>
   <a href="https://github.com/KimGiheung">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimGiheung&layout=compact" alt="Top Langs"/>
   </a>
