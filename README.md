@@ -1,7 +1,7 @@
 # 🐱‍💻Kim Gi-heung 
 <a href="https://github.com/mazassumnida/mazassumnida">
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=koosaga" alt="Solved.ac profile"/>
-</a>
+</a> <br>
 <p align="center">
   <a href="https://github.com/KimGiheung">
     <img src="https://github-readme-stats.vercel.app/api?username=KimGiheung&theme=dark&show_icons=true" alt="Anurag's GitHub stats"/>
