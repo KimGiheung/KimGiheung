@@ -1,5 +1,5 @@
 # 🐱‍💻Kim Gi-heung 
-<div align="center">
+<div align="left">
   <a href="https://github.com/mazassumnida/mazassumnida">
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=koosaga" alt="Solved.ac profile"/>
   </a>
