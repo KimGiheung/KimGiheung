@@ -25,6 +25,8 @@
 > My target job category or position is Ai neural network researcher.
 
 ## Skill
+
+
 > 뱃지 만드는 법은 [여기](https://2dowon.netlify.app/etc/github-badge/)
 
 
