@@ -50,17 +50,15 @@
 ## Education  
 
 # Group
-- GDSC Dong-A Univ 23-24
+- GDSC Dong-A Univ(23~24)
+- ROKA officer(25~c)
 
-**동아대 AI학과**(2021 ~)  
+
+**동아대 AI학과**(2021~2024)  
 ]
 **Study**
-- 동아대 IT 취업 동아리 머신러닝 스터디(2022.03.29 ~ 진행중)
-  - [혼자 공부하는 머신러닝 + 딥러닝](https://g.co/kgs/3XhrQP)
-
-- 동아대 IT 취업 동아리 데이터 분석 스터디(2022.03.29 ~ 진행중)
-  - [데이터분석을 위한 SQL 레시피](https://g.co/kgs/wPVrmG)
-
+- 동아대 IT 취업 동아리 머신러닝 스터디(2022.03.29)
+- [혼자 공부하는 머신러닝 + 딥러닝](https://g.co/kgs/3XhrQP)
 
 ## Projects
 - 인공지능 기반 실내 모니터링을 통한 환경정화 자율주행 로봇
