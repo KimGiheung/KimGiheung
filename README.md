@@ -58,7 +58,7 @@
 ]
 **Study**
 - 동아대 IT 취업 동아리 머신러닝 스터디(2022.03.29)
-- [혼자 공부하는 머신러닝 + 딥러닝](https://g.co/kgs/3XhrQP)
+- [혼자 공부하는 머신러닝 + 딥러닝](https://github.com/KimGiheung/ML_Study)
 
 ## Projects
 - 인공지능 기반 실내 모니터링을 통한 환경정화 자율주행 로봇
