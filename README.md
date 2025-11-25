@@ -68,5 +68,5 @@
 
 <br>
 
-- [Corporation: Cast.Era] [Development of real-time subtitle conversion technology for broadcasting contents such as news](https://github.com/SJpark02/AICC-2024_AI-Project) (2024.03.18~)
-- [Industry-academic cooperation R&D] Establishment of Nvidia Isaac Sim digital twin for AMR-based port logistics automation (2024.04.29~)
+- Corporation: Cast.Era [Development of real-time subtitle conversion technology for broadcasting contents such as news](https://github.com/SJpark02/AICC-2024_AI-Project) (2024.03.18~2024.12.)
+- Industry-academic cooperation R&D Establishment of Nvidia Isaac Sim digital twin for AMR-based port logistics automation (2024.04.29~2024.12.)
