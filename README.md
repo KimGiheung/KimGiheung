@@ -98,15 +98,6 @@ I aim to contribute to the next generation of AI systems capable of robust reaso
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KimGiheung&theme=dark&show_icons=true" width="47%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimGiheung&layout=compact" width="47%">
-</div>
-
----
-
 ## 📌 Currently Learning
 
 * PyTorch-based model implementation
