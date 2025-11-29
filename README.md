@@ -1,20 +1,6 @@
+---
+
 # Kim Gi-heung
-<div align="left">
-  <a href="https://github.com/mazassumnida/mazassumnida">
-    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=koosaga" alt="Solved.ac profile"/>
-  </a>
-  <p>
-    <a href="https://github.com/KimGiheung">
-      <img src="https://github-readme-stats.vercel.app/api?username=KimGiheung&theme=dark&show_icons=true" alt="Anurag's GitHub stats"/>
-    </a>
-    <a href="https://solved.ac/dse9462/">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dse9462" alt="Solved.ac Profile"/>
-    </a>
-    <a href="https://github.com/KimGiheung">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimGiheung&layout=compact" alt="Top Langs"/>
-    </a>
-  </p>
-</div>  
 
 **AI Researcher (Neural Networks · Multimodal Learning · Reinforcement Learning)**
 Seoul, South Korea
@@ -58,11 +44,11 @@ I aim to contribute to the next generation of AI systems capable of robust reaso
 
 **AI Engineer (Industry: Cast.Era) | 2024**
 
-* Developed a real-time STT → subtitle generation pipeline for broadcasting content.
-* Processed noisy speech data and optimized accuracy with confidence scoring and post-processing.
-* Contributed to latency reduction & model optimization for production deployment.
+* Built a real-time STT → subtitle generation pipeline for broadcasting.
+* Improved accuracy via confidence scoring & post-processing heuristics.
+* Optimized inference pipeline to reduce latency and improve robustness.
 
-**Tech**: Whisper, PyTorch, On-device Optimization, Audio DSP
+**Tech**: Whisper, PyTorch, Audio DSP, Optimization
 
 ---
 
@@ -70,11 +56,11 @@ I aim to contribute to the next generation of AI systems capable of robust reaso
 
 **R&D Engineer (Industry-Academic Cooperation) | 2024**
 
-* Built high-fidelity digital twin environments for port-logistics automation.
-* Implemented AMR navigation simulation and evaluation scenarios.
-* Integrated perception modules using Isaac ROS GEMs.
+* Constructed high-fidelity digital twin simulation for port logistics automation.
+* Implemented AMR navigation & perception modules in Isaac Sim.
+* Developed evaluation scenarios for planning and simulation-based RL.
 
-**Tech**: Isaac Sim, ROS2, Navigation Stack, Simulation-based RL Environment
+**Tech**: Isaac Sim, ROS2, Navigation Stack, Simulation
 
 ---
 
@@ -82,9 +68,9 @@ I aim to contribute to the next generation of AI systems capable of robust reaso
 
 ### **Core**
 
-* **Python**, C/C++, Bash, Linux(Ubuntu)
-* **Deep Learning**: PyTorch, TensorFlow/Keras
-* **Data Processing**: Pandas, NumPy, Scikit-learn
+* Python, C/C++, Bash, Linux(Ubuntu)
+* Deep Learning: PyTorch, TensorFlow/Keras
+* Data: Pandas, NumPy, Scikit-learn
 
 ### **Domains**
 
@@ -103,22 +89,39 @@ I aim to contribute to the next generation of AI systems capable of robust reaso
 **Academic Activities**
 
 * ML Study Group (2022)
-* Self-directed Deep Learning Practice & GitHub projects
+* Self-directed Deep Learning Practice & Projects
 
 ---
 
 ## 👥 Leadership & Affiliations
 
-* **Google Developer Student Club (GDSC) – Dong-A Univ (2023–2024)**
-* **ROKA Officer (2025~)**
+* Google Developer Student Club (GDSC) – Dong-A Univ (2023–2024)
+* ROKA Officer (2025~)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KimGiheung&theme=dark&show_icons=true" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimGiheung&layout=compact" width="47%">
+</div>
+
+---
+
+## 📊 Contributions in the Last Year
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimGiheung&theme=github" width="100%">
+</div>
 
 ---
 
 ## 📌 Currently Learning
 
-* PyTorch-based model implementation
+* PyTorch Model Engineering
 * Reinforcement Learning (PPO, SAC, DQN)
-* Multimodal learning research (Speech × LLM × Vision)
+* Multimodal Learning (Speech × LLM × Vision)
 
 ---
 
